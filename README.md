@@ -1,10 +1,11 @@
 <div align="center">
   <h2>Project manager app</h2>
-  <span>Create/delete a project. Add title, description and tasks. 
-        Save it and create another one or more, they are all stored in your sidebar.
-        PS: The purpose of this repository is to exercise state, refs, data flow between components and identifying the problem of props drilling in React.js. The site is not fully responsive and there is not much styling.
-</span>
 </div>
+
+Create/delete a project. Add title, description and tasks. 
+Save it and create another one or more, they are all stored in your sidebar.
+PS: The purpose of this repository is to exercise state, refs, data flow between components and identifying the problem of props drilling in React.js. The site is not fully responsive and there is not much styling.
+
 <br />
 Technologies used: React.js, Tailwind css.
 
